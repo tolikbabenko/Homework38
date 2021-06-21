@@ -7,7 +7,6 @@ public class Main {
 
         Random random = new Random();
         int[][] a = new int[5][8];
-        int max, min;
         int maxNumber = 0;
         int minNumber = 0;
         System.out.print("Two-dimensional array filled with random numbers:\n");
